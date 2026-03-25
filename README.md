@@ -70,4 +70,4 @@ The application is deployed on an AWS EC2 instance using Docker containers. Ngin
 ## 👨‍💻 Author
 
 Talha Khan
-BSCS Student | DevOps & Cloud Learner
+
