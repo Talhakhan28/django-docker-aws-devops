@@ -67,5 +67,5 @@ Docker Containers Running
 ## Author
 
 Talha Khan  
-BS Computer Science Student  
+  
 DevOps & Cloud Enthusiast
